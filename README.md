@@ -1,10 +1,5 @@
 # Memory Game Project
 
-## Table of Contents
-
-* [Instructions](#instructions)
-* [Contributing](#contributing)
-
 ## What the game is about
 
 The game is a simple matching the cards style game. They're 16 cards always randomized in different locations for every game.
